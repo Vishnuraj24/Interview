@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "EmployeeAPI.Controllers.EmployeeController",
+    "Method": "AddEmployee",
+    "RelativePath": "api/Employee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employee",
+        "Type": "EmployeeAPI.Models.Employee",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmployeeAPI.Controllers.EmployeeController",
+    "Method": "GetPaginatedEmployees",
+    "RelativePath": "api/Employee",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "search",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "department",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmployeeAPI.Controllers.FileUploadController",
+    "Method": "UploadFile",
+    "RelativePath": "api/FileUpload/upload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "File",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmployeeAPI.Controllers.LoginController",
+    "Method": "Login",
+    "RelativePath": "api/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "EmployeeAPI.Models.LoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
