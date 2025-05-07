@@ -1,0 +1,14 @@
+D:\Interview\Project\ConsoleApp2-Delegate\bin\Debug\net8.0\ConsoleApp2-Delegate.exe
+D:\Interview\Project\ConsoleApp2-Delegate\bin\Debug\net8.0\ConsoleApp2-Delegate.deps.json
+D:\Interview\Project\ConsoleApp2-Delegate\bin\Debug\net8.0\ConsoleApp2-Delegate.runtimeconfig.json
+D:\Interview\Project\ConsoleApp2-Delegate\bin\Debug\net8.0\ConsoleApp2-Delegate.dll
+D:\Interview\Project\ConsoleApp2-Delegate\bin\Debug\net8.0\ConsoleApp2-Delegate.pdb
+D:\Interview\Project\ConsoleApp2-Delegate\obj\Debug\net8.0\ConsoleApp2-Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interview\Project\ConsoleApp2-Delegate\obj\Debug\net8.0\ConsoleApp2-Delegate.AssemblyInfoInputs.cache
+D:\Interview\Project\ConsoleApp2-Delegate\obj\Debug\net8.0\ConsoleApp2-Delegate.AssemblyInfo.cs
+D:\Interview\Project\ConsoleApp2-Delegate\obj\Debug\net8.0\ConsoleApp2-Delegate.csproj.CoreCompileInputs.cache
+D:\Interview\Project\ConsoleApp2-Delegate\obj\Debug\net8.0\ConsoleApp2-Delegate.dll
+D:\Interview\Project\ConsoleApp2-Delegate\obj\Debug\net8.0\refint\ConsoleApp2-Delegate.dll
+D:\Interview\Project\ConsoleApp2-Delegate\obj\Debug\net8.0\ConsoleApp2-Delegate.pdb
+D:\Interview\Project\ConsoleApp2-Delegate\obj\Debug\net8.0\ConsoleApp2-Delegate.genruntimeconfig.cache
+D:\Interview\Project\ConsoleApp2-Delegate\obj\Debug\net8.0\ref\ConsoleApp2-Delegate.dll
