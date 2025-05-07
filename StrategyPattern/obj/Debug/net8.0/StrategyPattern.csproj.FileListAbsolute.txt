@@ -1,0 +1,14 @@
+D:\Interview\Project\StrategyPattern\bin\Debug\net8.0\StrategyPattern.exe
+D:\Interview\Project\StrategyPattern\bin\Debug\net8.0\StrategyPattern.deps.json
+D:\Interview\Project\StrategyPattern\bin\Debug\net8.0\StrategyPattern.runtimeconfig.json
+D:\Interview\Project\StrategyPattern\bin\Debug\net8.0\StrategyPattern.dll
+D:\Interview\Project\StrategyPattern\bin\Debug\net8.0\StrategyPattern.pdb
+D:\Interview\Project\StrategyPattern\obj\Debug\net8.0\StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interview\Project\StrategyPattern\obj\Debug\net8.0\StrategyPattern.AssemblyInfoInputs.cache
+D:\Interview\Project\StrategyPattern\obj\Debug\net8.0\StrategyPattern.AssemblyInfo.cs
+D:\Interview\Project\StrategyPattern\obj\Debug\net8.0\StrategyPattern.csproj.CoreCompileInputs.cache
+D:\Interview\Project\StrategyPattern\obj\Debug\net8.0\StrategyPattern.dll
+D:\Interview\Project\StrategyPattern\obj\Debug\net8.0\refint\StrategyPattern.dll
+D:\Interview\Project\StrategyPattern\obj\Debug\net8.0\StrategyPattern.pdb
+D:\Interview\Project\StrategyPattern\obj\Debug\net8.0\StrategyPattern.genruntimeconfig.cache
+D:\Interview\Project\StrategyPattern\obj\Debug\net8.0\ref\StrategyPattern.dll

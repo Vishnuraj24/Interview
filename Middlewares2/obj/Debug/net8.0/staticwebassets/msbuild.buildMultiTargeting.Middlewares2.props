@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Middlewares2.props" />
+</Project>

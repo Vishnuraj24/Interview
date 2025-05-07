@@ -1,0 +1,5 @@
+﻿1. Singleton Pattern (Creational)
+Problem: You want only one instance of a class (like a database connection) throughout your app.
+
+🧠 Real life: Only one Prime Minister is needed in a country, right? Similarly, 
+sometimes only one object should exist.

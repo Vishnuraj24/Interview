@@ -1,0 +1,14 @@
+D:\Interview\Project\Verisk\Program1\bin\Debug\net8.0\Program1.exe
+D:\Interview\Project\Verisk\Program1\bin\Debug\net8.0\Program1.deps.json
+D:\Interview\Project\Verisk\Program1\bin\Debug\net8.0\Program1.runtimeconfig.json
+D:\Interview\Project\Verisk\Program1\bin\Debug\net8.0\Program1.dll
+D:\Interview\Project\Verisk\Program1\bin\Debug\net8.0\Program1.pdb
+D:\Interview\Project\Verisk\Program1\obj\Debug\net8.0\Program1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interview\Project\Verisk\Program1\obj\Debug\net8.0\Program1.AssemblyInfoInputs.cache
+D:\Interview\Project\Verisk\Program1\obj\Debug\net8.0\Program1.AssemblyInfo.cs
+D:\Interview\Project\Verisk\Program1\obj\Debug\net8.0\Program1.csproj.CoreCompileInputs.cache
+D:\Interview\Project\Verisk\Program1\obj\Debug\net8.0\Program1.dll
+D:\Interview\Project\Verisk\Program1\obj\Debug\net8.0\refint\Program1.dll
+D:\Interview\Project\Verisk\Program1\obj\Debug\net8.0\Program1.pdb
+D:\Interview\Project\Verisk\Program1\obj\Debug\net8.0\Program1.genruntimeconfig.cache
+D:\Interview\Project\Verisk\Program1\obj\Debug\net8.0\ref\Program1.dll

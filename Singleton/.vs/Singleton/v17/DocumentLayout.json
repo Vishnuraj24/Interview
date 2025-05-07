@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Interview\\Project\\Singleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F233DD9E-87A2-4E77-9ADF-A63D3F9ECAF9}|..\\StrategyPattern\\StrategyPattern.csproj|d:\\interview\\project\\strategypattern\\fatestroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F233DD9E-87A2-4E77-9ADF-A63D3F9ECAF9}|..\\StrategyPattern\\StrategyPattern.csproj|d:\\interview\\project\\strategypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02099113-E255-4826-BC77-E07030B7BB1D}|..\\ObserverPattern2\\ObserverPattern2.csproj|d:\\interview\\project\\observerpattern2\\newsagency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02099113-E255-4826-BC77-E07030B7BB1D}|..\\ObserverPattern2\\ObserverPattern2.csproj|d:\\interview\\project\\observerpattern2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FatestRoute.cs",
+              "DocumentMoniker": "D:\\Interview\\Project\\StrategyPattern\\FatestRoute.cs",
+              "RelativeDocumentMoniker": "..\\StrategyPattern\\FatestRoute.cs",
+              "ToolTip": "D:\\Interview\\Project\\StrategyPattern\\FatestRoute.cs",
+              "RelativeToolTip": "..\\StrategyPattern\\FatestRoute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T19:19:10.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Interview\\Project\\StrategyPattern\\Program.cs",
+              "RelativeDocumentMoniker": "..\\StrategyPattern\\Program.cs",
+              "ToolTip": "D:\\Interview\\Project\\StrategyPattern\\Program.cs",
+              "RelativeToolTip": "..\\StrategyPattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T19:18:01.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewsAgency.cs",
+              "DocumentMoniker": "D:\\Interview\\Project\\ObserverPattern2\\NewsAgency.cs",
+              "RelativeDocumentMoniker": "..\\ObserverPattern2\\NewsAgency.cs",
+              "ToolTip": "D:\\Interview\\Project\\ObserverPattern2\\NewsAgency.cs",
+              "RelativeToolTip": "..\\ObserverPattern2\\NewsAgency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T18:44:55.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Interview\\Project\\ObserverPattern2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ObserverPattern2\\Program.cs",
+              "ToolTip": "D:\\Interview\\Project\\ObserverPattern2\\Program.cs",
+              "RelativeToolTip": "..\\ObserverPattern2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T18:44:21.264Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

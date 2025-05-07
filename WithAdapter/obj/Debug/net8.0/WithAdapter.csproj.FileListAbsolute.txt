@@ -1,0 +1,14 @@
+D:\Interview\Project\WithAdapter\obj\Debug\net8.0\WithAdapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interview\Project\WithAdapter\obj\Debug\net8.0\WithAdapter.AssemblyInfoInputs.cache
+D:\Interview\Project\WithAdapter\obj\Debug\net8.0\WithAdapter.AssemblyInfo.cs
+D:\Interview\Project\WithAdapter\obj\Debug\net8.0\WithAdapter.csproj.CoreCompileInputs.cache
+D:\Interview\Project\WithAdapter\bin\Debug\net8.0\WithAdapter.exe
+D:\Interview\Project\WithAdapter\bin\Debug\net8.0\WithAdapter.deps.json
+D:\Interview\Project\WithAdapter\bin\Debug\net8.0\WithAdapter.runtimeconfig.json
+D:\Interview\Project\WithAdapter\bin\Debug\net8.0\WithAdapter.dll
+D:\Interview\Project\WithAdapter\bin\Debug\net8.0\WithAdapter.pdb
+D:\Interview\Project\WithAdapter\obj\Debug\net8.0\WithAdapter.dll
+D:\Interview\Project\WithAdapter\obj\Debug\net8.0\refint\WithAdapter.dll
+D:\Interview\Project\WithAdapter\obj\Debug\net8.0\WithAdapter.pdb
+D:\Interview\Project\WithAdapter\obj\Debug\net8.0\WithAdapter.genruntimeconfig.cache
+D:\Interview\Project\WithAdapter\obj\Debug\net8.0\ref\WithAdapter.dll
