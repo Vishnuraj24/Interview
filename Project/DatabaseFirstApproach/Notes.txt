@@ -1,0 +1,2 @@
+﻿PM> Scaffold-DbContext "server=laptop-r713v9qm;database=demo;trusted_connection=true;
+TrustServerCertificate=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models

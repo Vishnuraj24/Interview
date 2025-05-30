@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ObserverPattern2/1.0.0": {
+        "runtime": {
+          "ObserverPattern2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ObserverPattern2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

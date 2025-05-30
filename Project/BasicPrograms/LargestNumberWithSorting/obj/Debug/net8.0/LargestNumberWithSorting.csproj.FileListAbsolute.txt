@@ -1,0 +1,14 @@
+D:\Interview\Project\BasicPrograms\LargestNumberWithSorting\bin\Debug\net8.0\LargestNumberWithSorting.exe
+D:\Interview\Project\BasicPrograms\LargestNumberWithSorting\bin\Debug\net8.0\LargestNumberWithSorting.deps.json
+D:\Interview\Project\BasicPrograms\LargestNumberWithSorting\bin\Debug\net8.0\LargestNumberWithSorting.runtimeconfig.json
+D:\Interview\Project\BasicPrograms\LargestNumberWithSorting\bin\Debug\net8.0\LargestNumberWithSorting.dll
+D:\Interview\Project\BasicPrograms\LargestNumberWithSorting\bin\Debug\net8.0\LargestNumberWithSorting.pdb
+D:\Interview\Project\BasicPrograms\LargestNumberWithSorting\obj\Debug\net8.0\LargestNumberWithSorting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interview\Project\BasicPrograms\LargestNumberWithSorting\obj\Debug\net8.0\LargestNumberWithSorting.AssemblyInfoInputs.cache
+D:\Interview\Project\BasicPrograms\LargestNumberWithSorting\obj\Debug\net8.0\LargestNumberWithSorting.AssemblyInfo.cs
+D:\Interview\Project\BasicPrograms\LargestNumberWithSorting\obj\Debug\net8.0\LargestNumberWithSorting.csproj.CoreCompileInputs.cache
+D:\Interview\Project\BasicPrograms\LargestNumberWithSorting\obj\Debug\net8.0\LargestNumberWithSorting.dll
+D:\Interview\Project\BasicPrograms\LargestNumberWithSorting\obj\Debug\net8.0\refint\LargestNumberWithSorting.dll
+D:\Interview\Project\BasicPrograms\LargestNumberWithSorting\obj\Debug\net8.0\LargestNumberWithSorting.pdb
+D:\Interview\Project\BasicPrograms\LargestNumberWithSorting\obj\Debug\net8.0\LargestNumberWithSorting.genruntimeconfig.cache
+D:\Interview\Project\BasicPrograms\LargestNumberWithSorting\obj\Debug\net8.0\ref\LargestNumberWithSorting.dll

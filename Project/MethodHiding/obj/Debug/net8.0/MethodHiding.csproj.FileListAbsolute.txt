@@ -1,0 +1,14 @@
+D:\Interview\Project\MethodHiding\bin\Debug\net8.0\MethodHiding.exe
+D:\Interview\Project\MethodHiding\bin\Debug\net8.0\MethodHiding.deps.json
+D:\Interview\Project\MethodHiding\bin\Debug\net8.0\MethodHiding.runtimeconfig.json
+D:\Interview\Project\MethodHiding\bin\Debug\net8.0\MethodHiding.dll
+D:\Interview\Project\MethodHiding\bin\Debug\net8.0\MethodHiding.pdb
+D:\Interview\Project\MethodHiding\obj\Debug\net8.0\MethodHiding.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interview\Project\MethodHiding\obj\Debug\net8.0\MethodHiding.AssemblyInfoInputs.cache
+D:\Interview\Project\MethodHiding\obj\Debug\net8.0\MethodHiding.AssemblyInfo.cs
+D:\Interview\Project\MethodHiding\obj\Debug\net8.0\MethodHiding.csproj.CoreCompileInputs.cache
+D:\Interview\Project\MethodHiding\obj\Debug\net8.0\MethodHiding.dll
+D:\Interview\Project\MethodHiding\obj\Debug\net8.0\refint\MethodHiding.dll
+D:\Interview\Project\MethodHiding\obj\Debug\net8.0\MethodHiding.pdb
+D:\Interview\Project\MethodHiding\obj\Debug\net8.0\MethodHiding.genruntimeconfig.cache
+D:\Interview\Project\MethodHiding\obj\Debug\net8.0\ref\MethodHiding.dll

@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewData["Title"] = "DashBoard";
+}
+@{
+    if (TempData["Success"] != null || TempData["Success"] == "")
+    {
+        <div class="alert alert-success" role="alert">
+            @TempData["Success"]
+        </div>
+    }
+}
+
+<h1>DashBoard</h1>
+<a asp-action="Logout">Logout</a>
+

@@ -1,0 +1,14 @@
+D:\Interview\Project\ConsoleApp1-Async\bin\Debug\net8.0\ConsoleApp1-Async.exe
+D:\Interview\Project\ConsoleApp1-Async\bin\Debug\net8.0\ConsoleApp1-Async.deps.json
+D:\Interview\Project\ConsoleApp1-Async\bin\Debug\net8.0\ConsoleApp1-Async.runtimeconfig.json
+D:\Interview\Project\ConsoleApp1-Async\bin\Debug\net8.0\ConsoleApp1-Async.dll
+D:\Interview\Project\ConsoleApp1-Async\bin\Debug\net8.0\ConsoleApp1-Async.pdb
+D:\Interview\Project\ConsoleApp1-Async\obj\Debug\net8.0\ConsoleApp1-Async.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interview\Project\ConsoleApp1-Async\obj\Debug\net8.0\ConsoleApp1-Async.AssemblyInfoInputs.cache
+D:\Interview\Project\ConsoleApp1-Async\obj\Debug\net8.0\ConsoleApp1-Async.AssemblyInfo.cs
+D:\Interview\Project\ConsoleApp1-Async\obj\Debug\net8.0\ConsoleApp1-Async.csproj.CoreCompileInputs.cache
+D:\Interview\Project\ConsoleApp1-Async\obj\Debug\net8.0\ConsoleApp1-Async.dll
+D:\Interview\Project\ConsoleApp1-Async\obj\Debug\net8.0\refint\ConsoleApp1-Async.dll
+D:\Interview\Project\ConsoleApp1-Async\obj\Debug\net8.0\ConsoleApp1-Async.pdb
+D:\Interview\Project\ConsoleApp1-Async\obj\Debug\net8.0\ConsoleApp1-Async.genruntimeconfig.cache
+D:\Interview\Project\ConsoleApp1-Async\obj\Debug\net8.0\ref\ConsoleApp1-Async.dll

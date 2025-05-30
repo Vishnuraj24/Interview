@@ -1,0 +1,47 @@
+<div class="container mt-5">
+    <h2>User Details Form</h2>
+    <form [formGroup]="employeeForm" (ngSubmit)="onSubmit()">
+        <div class="mb-3">
+            <label for="fullName" class="form-label">Full Name</label>
+            <input type="text" formControlName="fullName" class="form-control" id="fullName"
+                placeholder="Enter your full name" />
+
+            <div class="text-danger">
+                @if(employeeForm.controls['fullName'].errors?.['required'] && employeeForm.controls['fullName'].touched)
+                {
+                <span>Full Name is required</span>
+                }
+                @else if(employeeForm.controls['fullName'].errors?.['minlength'] &&
+                employeeForm.controls['fullName'].touched){
+                <span>Full Name must be at least 3 characters long</span>
+                }
+
+            </div>
+
+
+
+        </div>
+
+        <div class="mb-3">
+            <label for="email" class="form-label">Email address</label>
+            <input type="email" formControlName="email" class="form-control" id="email" placeholder="name@example.com">
+        </div>
+
+        <div class="mb-3">
+            <label for="phone" class="form-label">Phone Number</label>
+            <input type="tel" formControlName="phone" class="form-control" id="phone"
+                placeholder="Enter your phone number">
+        </div>
+
+        <div class="mb-3">
+            <label for="address" formControlName="address" class="form-label">Address</label>
+            <textarea formControlName="address" class="form-control" id="address" rows="3"
+                placeholder="Enter your address"></textarea>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>
+<div *ngIf="formValue">
+    {{formValue | json}}
+</div>

@@ -1,0 +1,81 @@
+﻿@model ADO.Controllers.EmployeeViewModel
+
+@{
+    ViewBag.Title = "Employee List";
+}
+
+
+<!-- 🔍 Search Form -->
+<form method="get" asp-action="Index">
+    <label>Search With Name: </label>
+    <input type="text" name="search" value="@Model.Search" />
+    <input type="submit" value="Search" class="btn btn-primary" />
+
+    <!-- Preserve sorting and pagination state -->
+    <input type="hidden" name="sortColumn" value="@Model.sortColumn" />
+    <input type="hidden" name="sortAscending" value="@Model.sortDirection" />
+</form>
+<br />
+
+
+
+<h2>Employee List</h2>
+<table class="table table-striped table-bordered">
+    <thead>
+        <tr>
+            <th>Employee ID</th>
+            <th>
+                <a class="page-link" href="@Url.Action("Index", new
+                                      {
+                                          sortColumn = "Name",
+                                          sortDirection = Model.sortColumn == "Name" ? !Model.sortDirection : true,
+                                          page = 1
+
+                                      })">Name</a>
+            </th>
+            @*<th>Name</th>*@
+            <th>Age</th>
+            <th>Department</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var employee in Model.Employees)
+        {
+            <tr>
+                <td>@employee.EmployeeId</td>
+                <td>@employee.Name</td>
+                <td>@employee.Age</td>
+                <td>@employee.Department</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+
+<!-- Pagination Controls -->
+<nav>
+    <ul class="pagination">
+        @for (int i = 1; i <= Model.TotalPages; i++)
+        {
+            if (i == Model.CurrentPage)
+            {
+                <li class="page-item active">
+                    <span class="page-link">@i</span>
+                </li>
+            }
+            else
+            {
+                <li class="page-item">
+                    <a class="page-link" href="@Url.Action("Index", new
+                                          {
+                                              page = i,
+                                              sortColumn = Model.sortColumn,
+                                              sortDirection = Model.sortDirection,
+                                              Search = Model.Search
+                                          })">@i</a>
+                                    </li>
+                                }
+                            }
+    </ul>
+</nav>

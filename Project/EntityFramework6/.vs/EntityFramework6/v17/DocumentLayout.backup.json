@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Interview\\Project\\EntityFramework6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{362B4B83-7330-4C92-BA69-A4D4A90DFF4B}|EntityFramework6.csproj|d:\\interview\\project\\entityframework6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362B4B83-7330-4C92-BA69-A4D4A90DFF4B}|EntityFramework6.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362B4B83-7330-4C92-BA69-A4D4A90DFF4B}|EntityFramework6.csproj|D:\\Interview\\Project\\EntityFramework6\\Models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362B4B83-7330-4C92-BA69-A4D4A90DFF4B}|EntityFramework6.csproj|solutionrelative:Models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362B4B83-7330-4C92-BA69-A4D4A90DFF4B}|EntityFramework6.csproj|D:\\Interview\\Project\\EntityFramework6\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{362B4B83-7330-4C92-BA69-A4D4A90DFF4B}|EntityFramework6.csproj|solutionrelative:Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362B4B83-7330-4C92-BA69-A4D4A90DFF4B}|EntityFramework6.csproj|D:\\Interview\\Project\\EntityFramework6\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{362B4B83-7330-4C92-BA69-A4D4A90DFF4B}|EntityFramework6.csproj|solutionrelative:Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362B4B83-7330-4C92-BA69-A4D4A90DFF4B}|EntityFramework6.csproj|D:\\Interview\\Project\\EntityFramework6\\Models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362B4B83-7330-4C92-BA69-A4D4A90DFF4B}|EntityFramework6.csproj|solutionrelative:Models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362B4B83-7330-4C92-BA69-A4D4A90DFF4B}|EntityFramework6.csproj|D:\\Interview\\Project\\EntityFramework6\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362B4B83-7330-4C92-BA69-A4D4A90DFF4B}|EntityFramework6.csproj|solutionrelative:AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Interview\\Project\\EntityFramework6\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Interview\\Project\\EntityFramework6\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAD4vxMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T16:54:31.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Interview\\Project\\EntityFramework6\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "D:\\Interview\\Project\\EntityFramework6\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-10T16:52:06.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Interview\\Project\\EntityFramework6\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Interview\\Project\\EntityFramework6\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:44:04.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "author.cs",
+              "DocumentMoniker": "D:\\Interview\\Project\\EntityFramework6\\Models\\author.cs",
+              "RelativeDocumentMoniker": "Models\\author.cs",
+              "ToolTip": "D:\\Interview\\Project\\EntityFramework6\\Models\\author.cs",
+              "RelativeToolTip": "Models\\author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:43:29.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "book.cs",
+              "DocumentMoniker": "D:\\Interview\\Project\\EntityFramework6\\Models\\book.cs",
+              "RelativeDocumentMoniker": "Models\\book.cs",
+              "ToolTip": "D:\\Interview\\Project\\EntityFramework6\\Models\\book.cs",
+              "RelativeToolTip": "Models\\book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:43:26.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Interview\\Project\\EntityFramework6\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AppDbContext.cs",
+              "ToolTip": "D:\\Interview\\Project\\EntityFramework6\\AppDbContext.cs",
+              "RelativeToolTip": "AppDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwB4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:42:42.831Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

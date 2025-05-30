@@ -1,0 +1,14 @@
+D:\Interview\Project\BasicPrograms\Omniwyse1\bin\Debug\net8.0\Omniwyse1.exe
+D:\Interview\Project\BasicPrograms\Omniwyse1\bin\Debug\net8.0\Omniwyse1.deps.json
+D:\Interview\Project\BasicPrograms\Omniwyse1\bin\Debug\net8.0\Omniwyse1.runtimeconfig.json
+D:\Interview\Project\BasicPrograms\Omniwyse1\bin\Debug\net8.0\Omniwyse1.dll
+D:\Interview\Project\BasicPrograms\Omniwyse1\bin\Debug\net8.0\Omniwyse1.pdb
+D:\Interview\Project\BasicPrograms\Omniwyse1\obj\Debug\net8.0\Omniwyse1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interview\Project\BasicPrograms\Omniwyse1\obj\Debug\net8.0\Omniwyse1.AssemblyInfoInputs.cache
+D:\Interview\Project\BasicPrograms\Omniwyse1\obj\Debug\net8.0\Omniwyse1.AssemblyInfo.cs
+D:\Interview\Project\BasicPrograms\Omniwyse1\obj\Debug\net8.0\Omniwyse1.csproj.CoreCompileInputs.cache
+D:\Interview\Project\BasicPrograms\Omniwyse1\obj\Debug\net8.0\Omniwyse1.dll
+D:\Interview\Project\BasicPrograms\Omniwyse1\obj\Debug\net8.0\refint\Omniwyse1.dll
+D:\Interview\Project\BasicPrograms\Omniwyse1\obj\Debug\net8.0\Omniwyse1.pdb
+D:\Interview\Project\BasicPrograms\Omniwyse1\obj\Debug\net8.0\Omniwyse1.genruntimeconfig.cache
+D:\Interview\Project\BasicPrograms\Omniwyse1\obj\Debug\net8.0\ref\Omniwyse1.dll

@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Interview\\Project\\MethodHiding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{933A2387-1627-4916-BE16-7B4915A274F9}|..\\Types\\Types.csproj|d:\\interview\\project\\types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933A2387-1627-4916-BE16-7B4915A274F9}|..\\Types\\Types.csproj|d:\\interview\\project\\types\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852EC005-5512-4560-8EB7-8E068B4E7C25}|MethodHiding.csproj|d:\\interview\\project\\methodhiding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{852EC005-5512-4560-8EB7-8E068B4E7C25}|MethodHiding.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Interview\\Project\\MethodHiding\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Interview\\Project\\MethodHiding\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T03:36:44.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Interview\\Project\\Types\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Types\\Program.cs",
+              "ToolTip": "D:\\Interview\\Project\\Types\\Program.cs",
+              "RelativeToolTip": "..\\Types\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T03:19:01.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test.cs",
+              "DocumentMoniker": "D:\\Interview\\Project\\Types\\Test.cs",
+              "RelativeDocumentMoniker": "..\\Types\\Test.cs",
+              "ToolTip": "D:\\Interview\\Project\\Types\\Test.cs",
+              "RelativeToolTip": "..\\Types\\Test.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T03:18:08.378Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

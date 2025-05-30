@@ -1,0 +1,25 @@
+# Ignore Visual Studio temporary files, build results, and user-specific files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+
+# NuGet packages
+packages/
+*.nupkg
+*.snupkg
+
+# NPM packages
+node_modules/
+
+# Logs
+*.log
+
+# Misc
+*.vsidx
+.idea/

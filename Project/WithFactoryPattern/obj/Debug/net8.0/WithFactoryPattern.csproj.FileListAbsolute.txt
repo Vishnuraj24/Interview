@@ -1,0 +1,14 @@
+D:\Interview\Project\WithFactoryPattern\bin\Debug\net8.0\WithFactoryPattern.exe
+D:\Interview\Project\WithFactoryPattern\bin\Debug\net8.0\WithFactoryPattern.deps.json
+D:\Interview\Project\WithFactoryPattern\bin\Debug\net8.0\WithFactoryPattern.runtimeconfig.json
+D:\Interview\Project\WithFactoryPattern\bin\Debug\net8.0\WithFactoryPattern.dll
+D:\Interview\Project\WithFactoryPattern\bin\Debug\net8.0\WithFactoryPattern.pdb
+D:\Interview\Project\WithFactoryPattern\obj\Debug\net8.0\WithFactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interview\Project\WithFactoryPattern\obj\Debug\net8.0\WithFactoryPattern.AssemblyInfoInputs.cache
+D:\Interview\Project\WithFactoryPattern\obj\Debug\net8.0\WithFactoryPattern.AssemblyInfo.cs
+D:\Interview\Project\WithFactoryPattern\obj\Debug\net8.0\WithFactoryPattern.csproj.CoreCompileInputs.cache
+D:\Interview\Project\WithFactoryPattern\obj\Debug\net8.0\WithFactoryPattern.dll
+D:\Interview\Project\WithFactoryPattern\obj\Debug\net8.0\refint\WithFactoryPattern.dll
+D:\Interview\Project\WithFactoryPattern\obj\Debug\net8.0\WithFactoryPattern.pdb
+D:\Interview\Project\WithFactoryPattern\obj\Debug\net8.0\WithFactoryPattern.genruntimeconfig.cache
+D:\Interview\Project\WithFactoryPattern\obj\Debug\net8.0\ref\WithFactoryPattern.dll

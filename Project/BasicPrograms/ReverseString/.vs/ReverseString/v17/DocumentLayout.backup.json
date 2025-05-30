@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Interview\\Project\\BasicPrograms\\ReverseString\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD989CAE-7951-472E-8FC3-CA8AD2B8F5A2}|..\\LargestNumberWithoutSorting\\LargestNumberWithoutSorting.csproj|d:\\interview\\project\\basicprograms\\largestnumberwithoutsorting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11D8D96-DBEB-408F-94BF-9207C1C3A806}|..\\LargestNumberWithSorting\\LargestNumberWithSorting.csproj|d:\\interview\\project\\basicprograms\\largestnumberwithsorting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9391FE66-C1CD-4279-A7E8-7F1BD14E913B}|ReverseString.csproj|d:\\interview\\project\\basicprograms\\reversestring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9391FE66-C1CD-4279-A7E8-7F1BD14E913B}|ReverseString.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Interview\\Project\\BasicPrograms\\LargestNumberWithoutSorting\\Program.cs",
+              "RelativeDocumentMoniker": "..\\LargestNumberWithoutSorting\\Program.cs",
+              "ToolTip": "D:\\Interview\\Project\\BasicPrograms\\LargestNumberWithoutSorting\\Program.cs",
+              "RelativeToolTip": "..\\LargestNumberWithoutSorting\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T18:56:40.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Interview\\Project\\BasicPrograms\\LargestNumberWithSorting\\Program.cs",
+              "RelativeDocumentMoniker": "..\\LargestNumberWithSorting\\Program.cs",
+              "ToolTip": "D:\\Interview\\Project\\BasicPrograms\\LargestNumberWithSorting\\Program.cs",
+              "RelativeToolTip": "..\\LargestNumberWithSorting\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T18:55:04.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Interview\\Project\\BasicPrograms\\ReverseString\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Interview\\Project\\BasicPrograms\\ReverseString\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T18:48:32.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

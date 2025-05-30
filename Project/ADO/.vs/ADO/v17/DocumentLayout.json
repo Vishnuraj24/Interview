@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Interview\\Project\\ADO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A30E0A4D-4AC7-4E61-B149-B45C524D0972}|ADO.csproj|d:\\interview\\project\\ado\\dataaccess_ado\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30E0A4D-4AC7-4E61-B149-B45C524D0972}|ADO.csproj|solutionrelative:dataaccess_ado\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30E0A4D-4AC7-4E61-B149-B45C524D0972}|ADO.csproj|d:\\interview\\project\\ado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30E0A4D-4AC7-4E61-B149-B45C524D0972}|ADO.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "D:\\Interview\\Project\\ADO\\DataAccess_ADO\\DataAccess.cs",
+              "RelativeDocumentMoniker": "DataAccess_ADO\\DataAccess.cs",
+              "ToolTip": "D:\\Interview\\Project\\ADO\\DataAccess_ADO\\DataAccess.cs",
+              "RelativeToolTip": "DataAccess_ADO\\DataAccess.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAA8wGEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T05:24:19.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Interview\\Project\\ADO\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Interview\\Project\\ADO\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T05:23:32.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "P06K48XXELPZi0KbYntiuXm44aYO3hA6I5yDDKbSIXg=",
+  "Source": "EFAPI",
+  "BasePath": "_content/EFAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

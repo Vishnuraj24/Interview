@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Interview\\EF\\EFAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9688765E-5C96-4A8A-9D6A-2E89C95F64A5}|..\\EF6Pagination\\EF6Pagination.csproj|d:\\interview\\ef\\ef6pagination\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9688765E-5C96-4A8A-9D6A-2E89C95F64A5}|..\\EF6Pagination\\EF6Pagination.csproj|d:\\interview\\ef\\ef6pagination\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747C57E3-DEAF-4D50-91E9-9B17F1A4090D}|..\\ADOPagination\\ADOPagination.csproj|d:\\interview\\ef\\adopagination\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9688765E-5C96-4A8A-9D6A-2E89C95F64A5}|..\\EF6Pagination\\EF6Pagination.csproj|d:\\interview\\ef\\ef6pagination\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747C57E3-DEAF-4D50-91E9-9B17F1A4090D}|..\\ADOPagination\\ADOPagination.csproj|d:\\interview\\ef\\adopagination\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747C57E3-DEAF-4D50-91E9-9B17F1A4090D}|..\\ADOPagination\\ADOPagination.csproj|d:\\interview\\ef\\adopagination\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3200B3F-7052-4286-90AF-ED59A0956BED}|EFAPI.csproj|d:\\interview\\ef\\efapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3200B3F-7052-4286-90AF-ED59A0956BED}|EFAPI.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3200B3F-7052-4286-90AF-ED59A0956BED}|EFAPI.csproj|d:\\interview\\ef\\efapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3200B3F-7052-4286-90AF-ED59A0956BED}|EFAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3200B3F-7052-4286-90AF-ED59A0956BED}|EFAPI.csproj|d:\\interview\\ef\\efapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3200B3F-7052-4286-90AF-ED59A0956BED}|EFAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3200B3F-7052-4286-90AF-ED59A0956BED}|EFAPI.csproj|d:\\interview\\ef\\efapi\\models\\database110525context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3200B3F-7052-4286-90AF-ED59A0956BED}|EFAPI.csproj|solutionrelative:models\\database110525context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Interview\\EF\\EF6Pagination\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\EF6Pagination\\Models\\Employee.cs",
+              "ToolTip": "D:\\Interview\\EF\\EF6Pagination\\Models\\Employee.cs",
+              "RelativeToolTip": "..\\EF6Pagination\\Models\\Employee.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:41:14.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Interview\\EF\\ADOPagination\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\ADOPagination\\Models\\Employee.cs",
+              "ToolTip": "D:\\Interview\\EF\\ADOPagination\\Models\\Employee.cs",
+              "RelativeToolTip": "..\\ADOPagination\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T15:21:58.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Interview\\EF\\ADOPagination\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "..\\ADOPagination\\Models\\Department.cs",
+              "ToolTip": "D:\\Interview\\EF\\ADOPagination\\Models\\Department.cs",
+              "RelativeToolTip": "..\\ADOPagination\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T12:20:38.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Interview\\EF\\EF6Pagination\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\EF6Pagination\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Interview\\EF\\EF6Pagination\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\EF6Pagination\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T13:20:03.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Interview\\EF\\EF6Pagination\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\EF6Pagination\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Interview\\EF\\EF6Pagination\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\EF6Pagination\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEgAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T12:20:49.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Interview\\EF\\ADOPagination\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\ADOPagination\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Interview\\EF\\ADOPagination\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\ADOPagination\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T12:20:39.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Interview\\EF\\EFAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Interview\\EF\\EFAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T12:13:12.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Interview\\EF\\EFAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Interview\\EF\\EFAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-11T11:56:22.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Interview\\EF\\EFAPI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Interview\\EF\\EFAPI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwC0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T11:45:26.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Database110525Context.cs",
+              "DocumentMoniker": "D:\\Interview\\EF\\EFAPI\\Models\\Database110525Context.cs",
+              "RelativeDocumentMoniker": "Models\\Database110525Context.cs",
+              "ToolTip": "D:\\Interview\\EF\\EFAPI\\Models\\Database110525Context.cs",
+              "RelativeToolTip": "Models\\Database110525Context.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA3wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T11:56:10.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+﻿@model ADOPagination.Controllers.EmployeeViewModel
+
+@{
+    ViewBag.Title = "Employee List";
+}
+
+<h2>Employee List</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>
+                @Html.ActionLink("Name", "Index", new
+                {
+                    page = Model.CurrentPage,
+                    pageSize = Model.PageSize,
+                    sortColumn = "Name",
+                    sortAscending = Model.SortColumn == "Name" ? !Model.SortAscending : true
+                })
+            </th>
+            <th>Age</th>
+            <th>
+                @Html.ActionLink("Department", "Index", new
+                {
+                    page = Model.CurrentPage,
+                    pageSize = Model.PageSize,
+                    sortColumn = "DepartmentName",
+                    sortAscending = Model.SortColumn == "DepartmentName" ? !Model.SortAscending : true
+                })
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var emp in Model.Employees)
+        {
+            <tr>
+                <td>@emp.Name</td>
+                <td>@emp.Age</td>
+                <td>@emp.Department</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<nav>
+    <ul class="pagination">
+        @if (Model.CurrentPage > 1)
+        {
+            <li class="page-item">
+                @Html.ActionLink("Previous", "Index", new
+                {
+                    page = Model.CurrentPage - 1,
+                    pageSize = Model.PageSize,
+                    sortColumn = Model.SortColumn,
+                    sortAscending = Model.SortAscending
+                }, new { @class = "page-link" })
+            </li>
+        }
+
+        @for (int i = 1; i <= Model.TotalPages; i++)
+        {
+            <li class="@(i == Model.CurrentPage ? "page-item active" : "page-item")">
+                @Html.ActionLink(i.ToString(), "Index", new
+                {
+                    page = i,
+                    pageSize = Model.PageSize,
+                    sortColumn = Model.SortColumn,
+                    sortAscending = Model.SortAscending
+                }, new { @class = "page-link" })
+            </li>
+        }
+
+        @if (Model.CurrentPage < Model.TotalPages)
+        {
+            <li class="page-item">
+                @Html.ActionLink("Next", "Index", new
+                {
+                    page = Model.CurrentPage + 1,
+                    pageSize = Model.PageSize,
+                    sortColumn = Model.SortColumn,
+                    sortAscending = Model.SortAscending
+                }, new { @class = "page-link" })
+            </li>
+        }
+    </ul>
+</nav>

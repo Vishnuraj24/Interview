@@ -1,0 +1,9 @@
+﻿Download
+
+-> Microsoft.EntityFrameworkCore
+-> Microsoft.EntityFrameworkCore.SqlServer
+-> Microsoft.EnitityFrameworkCore.Tools
+
+Steps:
+Add-Migrations
+Update-Database

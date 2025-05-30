@@ -1,0 +1,14 @@
+D:\Interview\Project\BasicPrograms\StringMethods\bin\Debug\net8.0\StringMethods.exe
+D:\Interview\Project\BasicPrograms\StringMethods\bin\Debug\net8.0\StringMethods.deps.json
+D:\Interview\Project\BasicPrograms\StringMethods\bin\Debug\net8.0\StringMethods.runtimeconfig.json
+D:\Interview\Project\BasicPrograms\StringMethods\bin\Debug\net8.0\StringMethods.dll
+D:\Interview\Project\BasicPrograms\StringMethods\bin\Debug\net8.0\StringMethods.pdb
+D:\Interview\Project\BasicPrograms\StringMethods\obj\Debug\net8.0\StringMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interview\Project\BasicPrograms\StringMethods\obj\Debug\net8.0\StringMethods.AssemblyInfoInputs.cache
+D:\Interview\Project\BasicPrograms\StringMethods\obj\Debug\net8.0\StringMethods.AssemblyInfo.cs
+D:\Interview\Project\BasicPrograms\StringMethods\obj\Debug\net8.0\StringMethods.csproj.CoreCompileInputs.cache
+D:\Interview\Project\BasicPrograms\StringMethods\obj\Debug\net8.0\StringMethods.dll
+D:\Interview\Project\BasicPrograms\StringMethods\obj\Debug\net8.0\refint\StringMethods.dll
+D:\Interview\Project\BasicPrograms\StringMethods\obj\Debug\net8.0\StringMethods.pdb
+D:\Interview\Project\BasicPrograms\StringMethods\obj\Debug\net8.0\StringMethods.genruntimeconfig.cache
+D:\Interview\Project\BasicPrograms\StringMethods\obj\Debug\net8.0\ref\StringMethods.dll
